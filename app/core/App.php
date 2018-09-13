@@ -12,6 +12,7 @@ class App
 	public function __construct()
 	{
 		$url = $this->parseUrl();
+		print_r($url);
 
 		if(file_exists("../app/controllers/' . $url[0] . '.php"))
 		{
@@ -19,7 +20,7 @@ class App
 			unset($url[0]);
 		}
 
-		require_once('../app/controllers/' . $this->controller . '.php'); 
+		require_once('../app/controllers/' . $this->controller . '.php');  
 
 		$this->controller = new $this->controller;
 		var_dump($this->controller);
