@@ -1,0 +1,31 @@
+​basic features of rizdoor
+1. jobseekers can search through job title, skill name, company name, place.
+2. jobseeker can then apply on desired job by clikcing a on a job in the list.
+3. jobseeker can view company profile and their other jobs they posted.
+4. jobseeker will fill form without regi​​stering on website.
+4. after applying jobseeker will recive an email from rizqdoor.
+5. on specific selected job job seeker will have option to create email alerts for similer jobs. on weekly basis.
+6. Their will be a blog portion about different jobs topics.
+7. jobseekers can learn from these blogs.
+8. there will be country wise jobs listing.
+9. there will be industry wise job listing.
+10. Company posting job will have a dashboard.
+11. before posting a job a company must be registered first.
+12. In registration company info  like = purpose, about company, how many employees, offices locations, etc will be mendatory to give.
+13. company will see their jobs posted and can change their status.
+14. company can make changes to the posted or can delete it.
+15. when posting job some information will be important like for how many days this job should be posted.
+16. Company can see jobseeker applied for job resume.
+17. Their will be a dashboard for our company in which blogger will post blogs related to jobs.
+18. Our company can change these blogs and maintain it.
+19. there is term called on-page seo which is mean that our internal coding and website structure must meet all the crieterias of google search engine to compete with other competitors.
+19. on-page seo could be done in basic languages which takes too much efforts and time.
+18. their will not be used any external framewok as it will load our site.
+19. every library will made specifically for this project from the scratch.
+20. there will not be used even a single image from outside (ready made code).
+21. it will be fully search engine optomised.
+22. jobseeker can search a company and get company contact or office address or get to know the company by reading company profile.
+23. for responsiveness developers use frameworks like bootstrap to reduce time in mid level projects but not in high level projects because it effect system speed and consistency also seo.
+24. we will make our project responsive through basic css grid system which is released in 2017 and used by linkedin instagram etc.
+25. this project will be animated instead of basic color converting.
+26. will be the simplest and easiest to use system from both sides.
